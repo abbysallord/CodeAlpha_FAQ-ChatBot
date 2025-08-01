@@ -58,10 +58,6 @@ const API_KEY = 'YOUR_OPENAI_API_KEY_HERE';
 
 Dhanush Shenoy H
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
-For any questions or support, please contact: support@codealpha.com
+For any questions or support, please contact: dshenoyh@gmail.com
